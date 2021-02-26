@@ -23,6 +23,6 @@ module.exports = {
     reason: undefined,
     openMessage: {
         text: undefined,
-        embed: new MessageEmbed().setColor('RANDOM').setDescription('Welcome to your ticket {OWNER}')
+        embed: new MessageEmbed().setColor('RANDOM').setDescription('Welcoto your ticket {OWNER}')
     },
 };
